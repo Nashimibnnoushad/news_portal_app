@@ -1,0 +1,44 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    /* background-color: darkviolet; */
+  }
+  #submit {
+    background-color: limegreen;
+  }
+  
+  .card {
+    margin-top: 2rem;
+  }
+  
+  .jumbotron {
+    margin-top: 50px;
+    background-color: snow;
+  }
+  .loader {
+    margin-top: 25%;
+  }
+  .active {
+    background-color: cornflowerblue;
+  }
+  .notactive {
+    background-color: white;
+  }
+
+  .readLater {
+    color: cornflowerblue;
+    cursor: pointer;
+    float: right;
+  }
+
+  .header { 
+      color: cornflowerblue;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
